@@ -7,6 +7,7 @@ use Livewire\Component;
 class HomeComponent extends Component
 {
     public $message;
+    public $funciona = false;
 
     public function render()
     {
